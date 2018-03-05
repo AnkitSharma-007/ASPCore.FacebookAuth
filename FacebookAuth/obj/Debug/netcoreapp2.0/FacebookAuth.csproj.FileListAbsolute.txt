@@ -1,0 +1,12 @@
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\bin\Debug\netcoreapp2.0\FacebookAuth.deps.json
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\bin\Debug\netcoreapp2.0\FacebookAuth.runtimeconfig.json
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\bin\Debug\netcoreapp2.0\FacebookAuth.runtimeconfig.dev.json
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\bin\Debug\netcoreapp2.0\FacebookAuth.dll
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\bin\Debug\netcoreapp2.0\FacebookAuth.pdb
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.csprojResolveAssemblyReference.cache
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.AssemblyInfo.cs
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.dll
+C:\Users\ankit\source\repos\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.pdb
